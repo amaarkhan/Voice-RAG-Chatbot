@@ -1,4 +1,5 @@
 # Voice RAG Chatbot
+<img width="1917" height="1075" alt="Screenshot 2025-08-10 185236" src="https://github.com/user-attachments/assets/bdb881dd-97ae-4f9e-a92c-a2f7973caeba" />
 
 A complete Voice-enabled Retrieval-Augmented Generation (RAG) chatbot that allows you to:
 - 🎤 **Voice Input**: Speak your questions naturally
